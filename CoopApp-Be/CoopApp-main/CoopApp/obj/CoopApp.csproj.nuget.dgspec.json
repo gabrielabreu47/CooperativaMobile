@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Luis\\Documents\\Solvex\\Cooperativa\\CoopApp\\CoopApp\\CoopApp.csproj": {}
+    "C:\\Users\\Gabri\\Documents\\CooperativeApp\\CoopApp-Be\\CoopApp-main\\CoopApp\\CoopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Luis\\Documents\\Solvex\\Cooperativa\\CoopApp\\CoopApp\\CoopApp.csproj": {
+    "C:\\Users\\Gabri\\Documents\\CooperativeApp\\CoopApp-Be\\CoopApp-main\\CoopApp\\CoopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Luis\\Documents\\Solvex\\Cooperativa\\CoopApp\\CoopApp\\CoopApp.csproj",
+        "projectUniqueName": "C:\\Users\\Gabri\\Documents\\CooperativeApp\\CoopApp-Be\\CoopApp-main\\CoopApp\\CoopApp.csproj",
         "projectName": "CoopApp",
-        "projectPath": "C:\\Users\\Juan Luis\\Documents\\Solvex\\Cooperativa\\CoopApp\\CoopApp\\CoopApp.csproj",
-        "packagesPath": "C:\\Users\\Juan Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Luis\\Documents\\Solvex\\Cooperativa\\CoopApp\\CoopApp\\obj\\",
+        "projectPath": "C:\\Users\\Gabri\\Documents\\CooperativeApp\\CoopApp-Be\\CoopApp-main\\CoopApp\\CoopApp.csproj",
+        "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabri\\Documents\\CooperativeApp\\CoopApp-Be\\CoopApp-main\\CoopApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

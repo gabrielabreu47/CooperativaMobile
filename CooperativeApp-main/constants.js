@@ -1,4 +1,4 @@
-export const serverDomain = "";
+export const serverDomain = "https://dd54-148-103-171-122.ngrok.io";
 
 export const apiRoutes = {
   login: "",

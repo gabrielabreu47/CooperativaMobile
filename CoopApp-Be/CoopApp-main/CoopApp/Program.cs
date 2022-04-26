@@ -11,7 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IContext, CoopContext>();
-builder.Services.AddDbContext<CoopContext>(options => options.UseSqlite(@"Data Source=C:\\sqlite\\EcommerceDatabase.db"));
+builder.Services.AddDbContext<CoopContext>(options => options.UseSqlite(@"Data Source=EcommerceDatabase.db"));
 builder.Services.AddServices();
 
 var app = builder.Build();
